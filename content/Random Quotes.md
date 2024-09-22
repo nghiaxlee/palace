@@ -1,5 +1,7 @@
 ---
 title: Random Quotes
+tags:
+  - random
 ---
 
 ## Unknown sources

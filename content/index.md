@@ -7,6 +7,6 @@ I've been looking for a way to store my thoughts, because as you know, ideas jus
 - Sharing my little knowledge
 - Inspiring others to build similar things
 
-For now, check out [[Random Quotes]]
+For now, check out [[Random Quotes]], [[Code snippets]]
 
 [^1]: [[Second Brain]] might be a more appropriate name, I just want to reference this as the first inspirator
